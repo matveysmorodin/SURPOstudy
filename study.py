@@ -1,2 +1,2 @@
 print('I love GITHUB')
-x = 10
+print('Practice SURPO ^^')
